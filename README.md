@@ -6,4 +6,4 @@ Cloud Shell, Kubernetes Engine
 
 
 # How to setup:  
-Please visit https://medium.com/@manbobo2012/load-balancer-on-google-cloud-with-google-managed-ssl-certificates-6bfcfdbc7aeb
+Please visit 

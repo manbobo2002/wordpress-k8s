@@ -1,6 +1,3 @@
-# Demo:
-![image](https://github.com/manbobo2002/gcp_lb/blob/master/demo.gif)  
-
 # Technologies used:  
 Cloud Shell, Kubernetes Engine
 

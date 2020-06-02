@@ -6,4 +6,4 @@ Cloud Shell, Kubernetes Engine
 
 
 # How to setup:  
-Please visit 
+Please visit https://medium.com/google-cloud/introduction-to-docker-and-kubernetes-on-gcp-with-hands-on-configuration-part-3-kubernetes-with-eb41f5fc18ae
